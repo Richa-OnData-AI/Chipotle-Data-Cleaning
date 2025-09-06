@@ -6,6 +6,7 @@ This project showcases a complete data cleaning workflow on the Chipotle Orders 
 ## Resources
 **File Used:**
   - chipotle.tsv
+
 **Source:**  [Chipotle Dataset on Kaggle](https://www.kaggle.com/datasets/ayoubhafidialaoui/chipotle-dataset)
 
 ## About the Data
